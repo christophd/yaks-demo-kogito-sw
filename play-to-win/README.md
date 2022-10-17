@@ -25,5 +25,5 @@ To build your image, run:
 
 You can push your image using:
 ```
-docker push quay.io/{YOUR_USERNAME}/kogito-serverless-workflow-demo:1.0
+docker push quay.io/{YOUR_USERNAME}/kogito-serverless-workflow-demo:1.1
 ```
